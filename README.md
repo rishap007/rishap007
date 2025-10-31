@@ -11,7 +11,7 @@ Software Engineer | AI & Web Developer
 ---
 
 ### 📄 Resume
-[View My Resume](https://drive.google.com/file/d/13Rxk-c8xA7qRxZ3YHTjFRKOFh7TA-AvT/view?usp=sharing)
+[View My Resume](https://drive.google.com/file/d/1VLRl1CcL1a2Ic2BqLCeVXgH7XJBbnkyr/view?usp=drive_link)
 
 ---
 
