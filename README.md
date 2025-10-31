@@ -11,14 +11,14 @@ Software Engineer | AI & Web Developer
 ---
 
 ### 📄 Resume
-[View My Resume](https://drive.google.com/file/d/1D0v2s8BFgjYTDezCUClGA9WhzYH3Mgmu/view?usp=share_link)
+[View My Resume](https://drive.google.com/file/d/13Rxk-c8xA7qRxZ3YHTjFRKOFh7TA-AvT/view?usp=sharing)
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://github.com/rishap007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashwin-ragupathy-750752170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kumar-rishap-33b68437b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/rishap007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/rishap007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
