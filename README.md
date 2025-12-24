@@ -5,13 +5,12 @@ Software Engineer | AI & Web Developer
 
 🌱 I’m currently learning **AI frameworks, MERN stack, and cloud deployment**  
 💻 My top skills are **Web Development and AI Integration**  
-📫 How to reach me: **krmrishap@gmail.com**  
-🧠 Check out my projects: [Vibe Commerce](https://github.com/rishap007/Vibe-commerce)  
+📫 How to reach me: **krmrishap@gmail.com**   
 
 ---
 
 ### 📄 Resume
-[View My Resume](https://drive.google.com/file/d/1VLRl1CcL1a2Ic2BqLCeVXgH7XJBbnkyr/view?usp=drive_link)
+[View My Resume](https://drive.google.com/file/d/11FPs4x75kE_udWZEOjOeNHygryNVQKy_/view?usp=drive_link)
 
 ---
 
